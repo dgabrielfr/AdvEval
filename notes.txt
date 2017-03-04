@@ -1,0 +1,45 @@
+Do not mix AWT / Swing with SwingStates
+
+Use tags => 
+    e.addTag(bla);
+    e.removeShapes(bla);
+    
+CEllipse ce = canvas.newEllipse(x, y, w, h);
+ce.setFillPaint(color.Red);
+ce.addTag(yollo);
+
+
+Apparatus:
+remember to put the PC type (proc, screen..), java version, mouse.  Put ALL relevent details
+
+Hypothesis:
+H1: VV1 is preattentive
+H2: VV2 is preattentive
+H3: VV1VV2 is preattentive
+
+XP
+within subject design
+two factors: VV and objects count
+
+-> two way repeated Anova with factors VisualVariable and ObjectsCount on time
+
+    VV1  VV2 VV1VV2
+6
+9
+16
+
+DO IT (MF!!) -> interpretation || faster || /!\ Cannot tell preattentive or not
+So post-hoc too
+
+preattentive -> linear regression
+a + bx
+
+Learning effect? -> graph
+
+Can also make one way Anova for ObjectsCount
+
+/!\ Remove the pratice /!\
+
+Screenshots of VisualVariables !! (gif ???)
+
+/!\ max pages: around 5 /!\
